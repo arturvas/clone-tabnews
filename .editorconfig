@@ -1,0 +1,10 @@
+root = true
+
+# tipo de arquivo que queremos que seja afetado essa configuração. * -> todos.
+[*]
+
+# Para quando acontecer uma indentação, utilizar-se o caractere de 'espaço'.
+indent_style = space 
+
+# O tamanho da largura da indentacao será de 2 em 2 espaços.
+indent_size = 2
